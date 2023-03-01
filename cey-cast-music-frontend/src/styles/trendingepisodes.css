@@ -1,0 +1,49 @@
+.card-headings{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 0.8rem;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.play-icon-trending{
+    bottom: 28%;
+    right:30px;
+}
+
+/* .img-trending{
+    width:5vw !important;
+}
+
+@media screen and (max-width:1300px) and (min-width:992px){
+    .img-trending{
+        width:4.7vw !important;
+    }
+    
+} */
+
+.trending-head{
+    font-family: 'Poppins';
+    font-size:1.1rem;
+    font-weight: 600;
+}
+
+.trending-text{
+    font-family: 'Poppins';
+    font-size:0.9rem;
+    font-weight: 300;
+}
+
+@media screen and (max-width:1300px) and (min-width:992px) {
+
+    .trending-head{
+        font-size:0.9rem;
+        font-weight: 400;
+    }
+    
+    .trending-text{
+        font-size:0.7rem;
+        font-weight: 200;
+    }
+    
+}

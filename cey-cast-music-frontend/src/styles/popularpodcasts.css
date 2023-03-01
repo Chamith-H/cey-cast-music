@@ -1,0 +1,49 @@
+
+.p-heading-pop{
+    /* font-family:'OpenSans' ; */
+    font-weight: 800;
+    font-size: 6rem;
+
+}
+
+.p-heading-p-pop{
+    font-weight: 400;
+    font-size: 6rem;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+  color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width:1500px) {
+
+    .p-heading-pop{
+       
+        font-weight: 800;
+        font-size: 6rem;
+    
+    }
+    
+    .p-heading-p-pop{
+        font-weight: 400;
+        font-size: 4rem;
+    }
+    
+}
+
+@media screen and (max-width:1400px) and (min-width:1200px) {
+
+    .p-heading-pop{
+       
+        font-weight: 800;
+        font-size: 5.8rem;
+    
+    }
+    
+    .p-heading-p-pop{
+        font-weight: 400;
+        font-size: 4rem;
+    }
+    
+}

@@ -1,0 +1,35 @@
+.overlay-menu{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    background: rgba(49,49,49,0.8);
+    z-index: 12000;
+}
+
+.cp{
+    position: absolute;
+    margin-top: 30px;
+    /* top: -10px; */
+    /* left: 50%; */
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #f9f9f9 ;
+    /* padding: 10px 28px; */
+    border-radius: 3px;
+    width: 80%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    z-index: 20;
+}
+
+.app{
+    width:45% !important;
+    height:50px !important;
+}

@@ -1,0 +1,36 @@
+.side-menu-bar-item{
+    width: 88%;
+
+    height: 50px;
+    /* border: 1px solid red;
+    background-color: aqua; */
+    
+
+   
+}
+
+.side-menu-bar-item:hover{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+.item{
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 12px;
+    align-self: center;
+}
+
+@media screen and (max-width:1200px) {
+    .side-menu-bar-item{
+        width: 90%;
+    }
+}
+
+
+@media screen and (max-width:992px) {
+    .side-menu-bar-item{
+        height: 5vh;
+    }
+}

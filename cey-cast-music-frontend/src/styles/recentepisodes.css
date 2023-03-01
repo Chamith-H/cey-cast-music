@@ -1,0 +1,118 @@
+.card-border{
+   
+    border-radius: 10px;
+}   
+
+.card-text{
+    font-family: 'Poppins' !important;
+    font-weight: 400 !important;
+    font-size: 0.5rem !important;
+}
+
+.card-img-top {
+    width: 100%;
+   
+    object-fit: cover;
+}
+
+.img-border{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.title-font{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.card-body-font{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 0.5rem;
+}
+
+
+.btnd{
+    text-justify: auto;
+    border: none;
+    
+}
+
+.btnd button{
+    margin:0;
+    border-radius: 20px;
+    width: 80px;
+    background-color:white ;
+    font-family: 'Open Sans';
+    font-weight:600 ;
+    outline: none;
+    font-size: 15px;
+       
+}
+
+.btnd button:hover{
+    background-image:linear-gradient(rgb(240, 151, 237), rgb(72, 13, 93));
+   border-color: white;
+    color: rgb(255, 255, 255);
+}
+
+
+.search{
+    padding: 0;
+    width: 100%;
+    border-radius: 3.5vh;
+    padding-left: 10px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height:55px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    /* border: 1px solid black; */
+}
+
+.search:focus{
+    outline: none;
+}
+.search-btn{
+    width: 100%;
+    height: 55px;
+    border: none;
+    padding: 0;
+    border-top-left-radius: 3.5vh;
+    border-bottom-left-radius: 3.5vh;
+}
+
+.play-icon{
+     bottom: 50%;
+     right: 10%
+}
+@media screen and (max-width:500px) {
+
+    .btnd button{
+        font-size: 11px;
+    }
+    
+}
+
+@media screen and (min-width:1756px) {
+    .play-icon{
+        bottom: 45%;
+        right: 10%
+   }
+    
+}
+
+@media screen and (min-width:992px) and (max-width:1333px) {
+    .play-icon{
+        bottom: 63%;
+        right: 10%
+   }
+    
+}
+
+.hd{
+  font-family: 'Open Sans';
+  font-weight: 700;
+}

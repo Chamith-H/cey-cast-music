@@ -1,0 +1,129 @@
+.overlay-search{
+    width: 100%;
+    height: 100%;
+    top: 10;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    background: transparent;
+    z-index: 1000;
+}
+
+.card-headings {
+    background-color: transparent !important;
+}
+
+.top{
+    margin-top: 100px !important;
+}
+
+.search-h{
+  font-size:1rem ;
+}
+.search-p{
+    font-size:1rem ;
+}
+
+@media screen and (max-width:992px) {
+    .mob{
+        width:100% !important;
+        /* background:transparent !important ; */
+        border-radius: 0 !important;
+        background: rgb(106, 45, 13);
+    }
+    .overlay-search{
+        /* width: 100vw;
+       ; */
+       width: 100%;
+       /* height: 900px; */
+
+        top: 10;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        
+       
+        z-index: 1000;
+        
+    }
+    .box-no{
+      box-shadow: none !important;
+    }
+
+    .card-headings{
+        font-size: 1.8rem !important;
+    }
+    .p-t{
+        font-size: 1rem !important;
+    }
+}
+
+@media screen and (max-width:2000px) and (min-width:1500px) {
+
+    .search-h{
+        font-size:0.7rem ;
+      }
+      .search-p{
+          font-size:0.6rem ;
+      }
+    
+}
+
+@media screen and (max-width:1499px) and (min-width:1300px) {
+
+    .search-h{
+        font-size:0.6rem ;
+      }
+      .search-p{
+          font-size:0.4rem ;
+      }
+      .play{
+        width:2rem !important;
+      }
+    
+}
+
+
+@media screen and (max-width:1300px) and (min-width:1200px) {
+
+    .search-h{
+        font-size:0.45rem ;
+      }
+      .search-p{
+          font-size:0.3rem ;
+      }
+      .play{
+        width:2rem !important;
+      }
+    
+}
+
+@media screen and (max-width:1200px) and (min-width:992px) {
+
+    .search-h{
+        font-size:0.8rem ;
+      }
+      .search-p{
+          font-size:0.5rem ;
+      }
+      .play{
+        width:2rem !important;
+      }
+    
+}
+
+@media screen and (max-width:992px) and (min-width:750px) {
+
+    .search-h{
+        font-size:1.3rem ;
+      }
+      .search-p{
+          font-size:1rem ;
+      }
+      .play{
+        width:3rem !important;
+      }
+    
+}

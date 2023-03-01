@@ -1,0 +1,27 @@
+.overlay-notify-mobile{
+    width: 100vw;
+    height: 100vh;
+    top: 10;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    background: rgba(49,49,49,0.8);
+    z-index: 120;
+    /* display: flex;
+    justify-content: end; */
+}
+
+.b{
+    border: 1.30004px solid #CFCFCF;
+    box-shadow: 0px 5.20016px 5.20016px rgba(0, 0, 0, 0.25);
+}
+
+.mobile{
+
+    top: 40px !important;
+
+}
+.card-headings {
+    background-color: transparent !important;
+}

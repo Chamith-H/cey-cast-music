@@ -1,0 +1,22 @@
+.overlay-notify{
+    width: 100%;
+    height: 100%;
+    top: 10;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    /* background: red; */
+    z-index: 1000;
+    /* display: flex;
+    justify-content: end; */
+}
+
+.mobile{
+
+    top: 40px !important;
+
+}
+.card-headings {
+    background-color: transparent !important;
+}
