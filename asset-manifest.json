@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cey-cast-music/static/css/main.2eb8b95c.css",
+    "main.js": "/cey-cast-music/static/js/main.92338b93.js",
+    "static/js/787.c666adb0.chunk.js": "/cey-cast-music/static/js/787.c666adb0.chunk.js",
+    "static/media/Slider1.png": "/cey-cast-music/static/media/Slider1.48d48f7a5913f49b6d5d.png",
+    "static/media/image3.jpg": "/cey-cast-music/static/media/image3.6dff345b10838e4aa81c.jpg",
+    "static/media/mb3.jpg": "/cey-cast-music/static/media/mb3.e62880ba6a8a6548a73a.jpg",
+    "static/media/mb1.jpg": "/cey-cast-music/static/media/mb1.371d3e0de24c339a061a.jpg",
+    "static/media/image2.jpg": "/cey-cast-music/static/media/image2.9e3f44d4c3141c7f6a25.jpg",
+    "static/media/EroshPods1.png": "/cey-cast-music/static/media/EroshPods1.e9ec366a1e1d12301740.png",
+    "static/media/music.jpg": "/cey-cast-music/static/media/music.3e48e0d0fe64c6f06a60.jpg",
+    "static/media/Frame.png": "/cey-cast-music/static/media/Frame.c6721b655140eb780be0.png",
+    "static/media/logo.svg": "/cey-cast-music/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cey-cast-music/index.html",
+    "main.2eb8b95c.css.map": "/cey-cast-music/static/css/main.2eb8b95c.css.map",
+    "main.92338b93.js.map": "/cey-cast-music/static/js/main.92338b93.js.map",
+    "787.c666adb0.chunk.js.map": "/cey-cast-music/static/js/787.c666adb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb8b95c.css",
+    "static/js/main.92338b93.js"
+  ]
+}
